@@ -25,7 +25,7 @@ If the answer is not present, say:
 "I don't know. This information is not available in the documents."
 
 Context:
-{context}
+
 
 Question:
 {question}
